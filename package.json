@@ -15,7 +15,7 @@
     "gulp-imagemin": "^6.1.0",
     "gulp-sass": "^3.1.0",
     "imagemin-pngquant": "^6.0.0",
-    "snyk": "^1.611.0"
+    "snyk": "^1.1094.0"
   },
   "scripts": {
     "dev": "node_modules\\.bin\\gulp watch",
