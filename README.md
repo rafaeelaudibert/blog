@@ -1,5 +1,5 @@
-# Personal Blog build with Jekyll
+# Rafa Audibert's blog
 
-Blog layout forked from [Adam Blog](https://github.com/artemsheludko/adam-blog).
-
-The blog is currently hosted [here](https://blog.rafaaudibert.dev/).
+> [!NOTE]  
+> This blog is now hosted alongside [my website](https://github.com/rafaeelaudibert/rafaaudibert.dev) for simplicity's sake.
+> `blog.rafaaudibert.dev` redirects to `www.rafaaudibert.dev/blog`
